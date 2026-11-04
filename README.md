@@ -88,3 +88,9 @@ A complete SOC pipeline — detection, ingestion, and AI-assisted triage — bui
 | [ics-modbus-attack-testing](https://github.com/carmelin-neto/ics-modbus-attack-testing) | Source of the real Suricata detection data ingested here |
 | [ot-incident-response-scenario](https://github.com/carmelin-neto/ot-incident-response-scenario) | Same underlying attack; this project adds the AI-assisted triage step ahead of that response process |
 | [waf-deployment-lab](https://github.com/carmelin-neto/waf-deployment-lab) | Same pattern of naming real infrastructure constraints honestly (Cloudflare's zone requirement there, Wazuh's ingestion behavior and Anthropic billing here) rather than hiding them |
+
+---
+
+## More From This Portfolio
+
+All nine projects: [carmelin-neto.github.io](https://carmelin-neto.github.io) · [GitHub profile](https://github.com/carmelin-neto)
